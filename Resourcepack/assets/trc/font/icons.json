@@ -1,0 +1,32 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "trc:font/thunder_blade/dash.png",
+      "ascent": 16,
+      "height": 16,
+      "chars": ["\uE000"]
+    },
+    {
+      "type": "bitmap",
+      "file": "trc:font/thunder_blade/slam.png",
+      "ascent": 16,
+      "height": 16,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "trc:font/thunder_blade/swap.png",
+      "ascent": 16,
+      "height": 16,
+      "chars": ["\uE002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "trc:font/thunder_blade/ultimate.png",
+      "ascent": 16,
+      "height": 16,
+      "chars": ["\uE003"]
+    }
+  ]
+}

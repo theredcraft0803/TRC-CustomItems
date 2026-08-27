@@ -1,0 +1,41 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made by TRC",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "trc:item/thunder_blade_0"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [51, 90, 0],
+			"translation": [0, 6.25, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [51, -90, 0],
+			"translation": [0, 6.25, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [30, 90, 30],
+			"translation": [1, 4.25, 1.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [30, -90, -30],
+			"translation": [1, 4.25, 1.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"head": {
+			"rotation": [-110, 0, -45],
+			"translation": [-0.5, -3.75, -6.25]
+		},
+		"on_shelf": {
+			"translation": [0, 0, -3]
+		}
+	}
+}

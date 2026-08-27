@@ -1,0 +1,19 @@
+name: TRC_CustomItems
+description: $description
+prefix: TRC CustomItems
+version: '${version}'
+
+main: de.trc.trccustomitems.TRCCustomItems
+api-version: '26.1.2'
+load: POSTWORLD
+
+authors: [ TRC ]
+website: linktr.ee/theredcraft0803
+
+commands:
+  givecustomitem:
+    description: Give yourself one of the Custom-Items
+permissions:
+  customitems.give:
+    description: Allows use of /givecustomitem
+    default: false

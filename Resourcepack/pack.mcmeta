@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Potato-Craft Resources",
+    "min_format": [75, 0],
+    "max_format": [200, 0]
+  }
+}

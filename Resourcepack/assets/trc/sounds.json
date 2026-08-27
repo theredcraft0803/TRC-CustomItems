@@ -1,0 +1,10 @@
+{
+  "thunder_slam": {
+    "sounds": [
+      {
+        "name": "trc:thunder_slam",
+        "stream": false
+      }
+    ]
+  }
+}

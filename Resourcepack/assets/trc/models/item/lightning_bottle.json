@@ -1,0 +1,44 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made by TRC",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "trc:item/lightning_bottle"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [60, 0, 0],
+			"translation": [-0.25, -0.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [60, 0, 0],
+			"translation": [0.25, -0.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [1, -13, 0],
+			"translation": [2, 2.25, -1.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [1, -13, 0],
+			"translation": [2, 2.25, -1.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 1.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"translation": [-0.25, 0.25, 0]
+		},
+		"head": {
+			"rotation": [-180, 0, 0],
+			"translation": [0, 12.75, 0]
+		},
+		"on_shelf": {
+			"translation": [0, 0, -3]
+		}
+	}
+}

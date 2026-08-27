@@ -1,0 +1,17 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      { "when": "thunder_blade_0", "model": { "type": "minecraft:model", "model": "trc:item/thunder_blade_0" } },
+      { "when": "thunder_blade_1", "model": { "type": "minecraft:model", "model": "trc:item/thunder_blade_1" } },
+      { "when": "thunder_blade_2", "model": { "type": "minecraft:model", "model": "trc:item/thunder_blade_2" } },
+      { "when": "thunder_blade_3", "model": { "type": "minecraft:model", "model": "trc:item/thunder_blade_3" } },
+      { "when": "thunder_blade_4", "model": { "type": "minecraft:model", "model": "trc:item/thunder_blade_4" } },
+      { "when": "thunder_blade_5", "model": { "type": "minecraft:model", "model": "trc:item/thunder_blade_5" } },
+      { "when": "thunder_blade_6", "model": { "type": "minecraft:model", "model": "trc:item/thunder_blade_6" } }
+    ],
+    "fallback": { "type": "minecraft:model", "model": "minecraft:item/netherite_sword" }
+  }
+}

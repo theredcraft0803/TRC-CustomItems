@@ -1,0 +1,22 @@
+thunder-blade:
+  max-uses: 6
+  combo-goal: 3
+
+  cost:
+    dash: 2
+    slam: 5
+    swap: 4
+    ultimate: 6
+
+  cooldown:
+    dash: 2000
+    slam: 30000
+    swap: 20000
+    ultimate: 40000
+
+  ability:
+    dash-multiplicator: 2.0
+    swap-distance: 20.0
+    swap-damage: 8.0
+    slam-distance: 30.0
+    ultimate-sec: 20
